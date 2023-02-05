@@ -1,0 +1,59 @@
+Department,Department,Equipment Class,Equipment Count,level,Department
+Environmental,Protection,CUV,1,Small,Environmental Protection
+Correction and,Rehabilitation,CUV,1,Small,Correction and Rehabilitation
+Fire and,Rescue,Heavy Duty,1,Small,Fire and Rescue
+Correction and,Rehabilitation,Pick Up Trucks,1,Small,Correction and Rehabilitation
+Fire and,Rescue,Public Safety Heavy Duty,1,Small,Fire and Rescue
+General,Services,Public Safety Heavy Duty,1,Small,General Services
+Correction and,Rehabilitation,Public Safety Sedan,1,Small,Correction and Rehabilitation
+Health and Human,Services,Public Safety SUV,1,Small,Health and Human Services
+General,Services,Public Safety Van,1,Small,General Services
+Community Use of Public,Facilities,Sedan,1,Small,Community Use of Public Facilities
+Consumer,Protection,Sedan,1,Small,Consumer Protection
+Fire and,Rescue,Sedan,1,Small,Fire and Rescue
+Circuit,Court,SUV,1,Small,Circuit Court
+Economic,Development,SUV,1,Small,Economic Development
+Fire and,Rescue,Transit Bus,1,Small,Fire and Rescue
+Board of,Elections,Van,1,Small,Board of Elections
+Environmental,Protection,Medium Duty,2,Small,Environmental Protection
+Board of,Elections,Off Road Vehicle Equipment,2,Small,Board of Elections
+Fire and,Rescue,Off Road Vehicle Equipment,2,Small,Fire and Rescue
+Correction and,Rehabilitation,Public Safety SUV,2,Small,Correction and Rehabilitation
+County Executives,Office,Sedan,2,Small,County Executives Office
+Community Engagement,Cluster,SUV,2,Small,Community Engagement Cluster
+General,Services,Medium Duty,3,Small,General Services
+Correction and,Rehabilitation,Off Road Vehicle Equipment,3,Small,Correction and Rehabilitation
+County Executives,Office,Public Safety SUV,3,Small,County Executives Office
+Correction and,Rehabilitation,SUV,3,Small,Correction and Rehabilitation
+Environmental,Protection,Van,3,Small,Environmental Protection
+Fire and,Rescue,Public Safety CUV,4,Small,Fire and Rescue
+Fire and,Rescue,Van,4,Small,Fire and Rescue
+General,Services,CUV,5,Small,General Services
+Health and Human,Services,CUV,5,Small,Health and Human Services
+General,Services,Heavy Duty,5,Small,General Services
+Fire and,Rescue,SUV,6,Small,Fire and Rescue
+Community Engagement,Cluster,Off Road Vehicle Equipment,7,Small,Community Engagement Cluster
+Community Engagement,Cluster,Pick Up Trucks,8,Small,Community Engagement Cluster
+Correction and,Rehabilitation,Van,8,Small,Correction and Rehabilitation
+Correction and,Rehabilitation,Sedan,10,Small,Correction and Rehabilitation
+Fire and,Rescue,Public Safety Van,11,Small,Fire and Rescue
+Fire and,Rescue,Pick Up Trucks,12,Small,Fire and Rescue
+Fire and,Rescue,Public Safety Pick Up Trucks,12,Small,Fire and Rescue
+Environmental,Protection,Sedan,15,Small,Environmental Protection
+Health and Human,Services,Van,15,Small,Health and Human Services
+Fire and,Rescue,Public Safety Sedan,18,Small,Fire and Rescue
+Environmental,Protection,SUV,18,Small,Environmental Protection
+General,Services,SUV,21,Small,General Services
+Fire and,Rescue,Public Safety SUV,27,Small,Fire and Rescue
+General,Services,Sedan,31,Small,General Services
+Environmental,Protection,Pick Up Trucks,33,Small,Environmental Protection
+General,Services,Van,42,Small,General Services
+General,Services,Off Road Vehicle Equipment,45,Small,General Services
+General,Services,Pick Up Trucks,48,Small,General Services
+Health and Human,Services,Sedan,75,Moderate,Health and Human Services
+,,,,,
+,,sum,528,,
+,,avg,10.15384615,,
+,,min,1,,
+,,max,75,,
+,,count,52,,
